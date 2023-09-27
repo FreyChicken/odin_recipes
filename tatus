@@ -1,0 +1,29 @@
+[33mcommit d2a39c01a1454f8bc6157c27eb92bfb26012f61b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: FreyChicken <kev.broeke@gmail.com>
+Date:   Wed Sep 27 20:49:44 2023 +0200
+
+    Fill lasagna.html with broilerplate
+
+[33mcommit ffea406fb50c511f676a5df00ca8e11e293d411b[m
+Author: FreyChicken <kev.broeke@gmail.com>
+Date:   Wed Sep 27 20:47:32 2023 +0200
+
+    Create recipe DIR and add lasagna.html
+
+[33mcommit 4ce07b2bc01c9935015291aaabfc5d2f97074354[m
+Author: FreyChicken <kev.broeke@gmail.com>
+Date:   Wed Sep 27 20:45:52 2023 +0200
+
+    Write Boilerplate into Index.html
+
+[33mcommit 491786eba945fcd62ea62f62f0c1db919c77756f[m
+Author: FreyChicken <kev.broeke@gmail.com>
+Date:   Wed Sep 27 20:43:12 2023 +0200
+
+    Create index.html file
+
+[33mcommit e3866d8f46bec9e8e6625ffa28a6d4161c43b441[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: FreyChicken <kev.broeke@gmail.com>
+Date:   Wed Sep 27 16:38:54 2023 +0200
+
+    Initial commit

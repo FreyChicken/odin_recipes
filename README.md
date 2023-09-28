@@ -1,1 +1,2 @@
 # odin_recipes
+In this project I learned the basics of html by creating a few webpages for food recipes. The webpages where done with lists and I added pictures for each food item. I also added an icon to the title in the head of the HTML file.

@@ -1,13 +1,19 @@
 /*all */
 body {
     font-family: 'Comic Sans MS', 'Comic Sans', cursive;
-    font-size: larger;
+    font-size: 40px;
     background-image: url(images/mettpatrick.jpg);
+    text-align: center;
 }
 
 strong {
     color: red;
     background-color: blue;
+}
+
+.start {
+    font-size: larger;
+    background-color: pink;
 }
 /* index*/
 
